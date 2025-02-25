@@ -9,3 +9,5 @@ Fast and efficient: Provides the best performance with a lightweight architectur
 Suitable for everyone: From personal to research and commercial projects (with respect to the license).
 
 Try Sokhan and bring the power of Persian language processing to your projects!
+
+Link to the sample section: [Link Text](#sample-section).
