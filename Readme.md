@@ -1,12 +1,11 @@
 # Sokhan | Persian NLP Framework
 
-سخن :
-یک فریم‌ورک سریع، سبک‌وزن و بهینه‌شده برای پردازش زبان طبیعی (NLP) در زبان فارسی است. این ابزار قدرتمند، با تمرکز بر سرعت و دقت، به توسعه‌دهندگان و پژوهشگران کمک می‌کند تا به راحتی از قابلیت‌های پیشرفته NLP در پروژه‌های خود استفاده کنند.
+Sokhan: is a fast, lightweight, and optimized framework for natural language processing (NLP) in Persian. This powerful tool, with a focus on speed and accuracy, helps developers and researchers easily use advanced NLP capabilities in their projects.
 
-پشتیبانی کامل از زبان فارسی: طراحی شده برای درک و پردازش دقیق زبان فارسی.
+Full Persian language support: Designed to accurately understand and process Persian language.
 
-سریع و بهینه: با معماری سبک‌وزن و الگوریتم‌های بهینه‌شده، بهترین عملکرد را ارائه می‌دهد.
+Fast and efficient: Provides the best performance with a lightweight architecture and optimized algorithms.
 
-مناسب برای همه: از پروژه‌های شخصی تا تحقیقاتی و تجاری (با رعایت لایسنس).
+Suitable for everyone: From personal to research and commercial projects (with respect to the license).
 
-سخن را امتحان کنید و قدرت پردازش زبان فارسی را به پروژه‌های خود بیاورید!
+Try Sokhan and bring the power of Persian language processing to your projects!
