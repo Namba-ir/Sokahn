@@ -55,7 +55,12 @@ Framework Modules :
 - [ ] Telegram Normilzer
 - [ ] Whatsapp Normalizer
 
+<b>Sokhan Vs AI</b>
+In this test, the models are tested on graphics cards of at least H100, while the Sokhan library is being tested on the least hardware resources.
 
+| Lang/Module's    | Sokhan* | GPTv4 | DeepSeek | Gemini | Gama | Grok v3 | Shiraz |
+| -------- | ------- | ------- | ------- | ------- |------- |------- |------- |
+| Count Keyword | 0.00000001 | No| No | No | No | No | Yes |
 
 <b>Sokhan Benchmark's language</b>
 | Lang/Module's    | Sokhan* | NLTK | Fast Text | SpaCy | Regex | Scikit-Learn | Hazm|
